@@ -1,5 +1,8 @@
 # MechCar_Statistical_Analysis
 
+## Resources
+[RStudio](https://github.com/nkinsler/MechCar_Statistical_Analysis/blob/main/MechCarChallenge.R)
+
 ## Linear Regression to Predict MPG
 
 ![lm](https://github.com/nkinsler/MechCar_Statistical_Analysis/blob/main/Resources/lm.png)!
@@ -20,7 +23,7 @@
 
 ## T-Tests on Suspension Coils
 
-![t-test]()!
+![t-test](https://github.com/nkinsler/MechCar_Statistical_Analysis/blob/main/Resources/t-test.png)!
 
 ## Study Design: MechCar vs Competition
 
